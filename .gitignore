@@ -1,0 +1,11 @@
+# Thư mục Visual Studio
+.vs/
+*.user
+*.suo
+
+# File build
+bin/
+obj/
+
+# File lock
+*.db.lock
